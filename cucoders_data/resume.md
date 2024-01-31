@@ -1,9 +1,9 @@
 ## 💼 Perfil profesional
--Analista y desarrollador en el Centro de Software Libre
--Diseñador de Interfaces para proyectos del Centro de Software Libre y el Centro de Innovación y Desarrollo para Internet
--Diseñador de Interfaces freelance
--Diseñador gráfico freelance
--Profesor de Programación
+- Analista y desarrollador en el Centro de Software Libre
+- Diseñador de Interfaces para proyectos del Centro de Software Libre y el Centro de Innovación y Desarrollo para Internet
+- Diseñador de Interfaces freelance
+- Diseñador gráfico freelance
+- Profesor de Programación
 
 ## 🎓 Educación
 
