@@ -29,8 +29,8 @@
 ## 🌎 Idiomas
 
 - Inglés:
-- Lectura C2 Proficient
-- Escucha B2 Upper Intermediate
-- Habla B2 Upper Intermediate
+  - Lectura C2 Proficient
+  - Escucha B2 Upper Intermediate
+  - Habla B2 Upper Intermediate
 
 ## 🔗 Referencias disponibles a petición
